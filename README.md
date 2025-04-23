@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Daniel.
-- 🎈 I’m 15 years old.
-- 👀 I’m interested in coding and swimming.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me? You can reach me at danielcosmin2133@gmail.com.
-
+- 👋 Hey there, I'm Daniel!
+- 🎂 I'm 15 years old
+- 💻 I’m passionate about coding, especially in Python
+- 🏊‍♂️ Outside of tech, I enjoy swimming and going to the gym
+- 🔭 I’m currently working with python and minecraft server plugin configs.
+- 🛠️ Skills: Python, bug fixing
+- 📫 You can reach me at danielcosmin2133@gmail.com
+- ⚽ Goal: My goal for 2025 is to learn more python and start learning html,css and javascipt.
