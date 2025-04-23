@@ -3,7 +3,7 @@
 while True: 
     user_input = input('Enter the first number: ')
     user_input2 = input('Enter the second number: ')
-    user_operation = input('Enter the operation you would want to calculate: (exit) ')
+    user_operation = input('Enter the operation you would want to calculate: Enter +, -, *, / or exit to quit: ')
     if user_operation == 'exit':  
         print('Exiting the calculator.')
         break
