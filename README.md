@@ -1,6 +1,6 @@
 - 👋 Hey there, I'm Daniel!
 - 🎂 I'm 15 years old
-- 💻 I’m passionate about coding, especially in Python
+- 💻 I love everything about coding, especially in Python
 - 🏊‍♂️ Outside of tech, I enjoy swimming and going to the gym
 - 🔭 I’m currently working with python and minecraft server plugin configs.
 - 🛠️ Skills: Python, bug fixing
